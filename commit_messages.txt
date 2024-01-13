@@ -1,0 +1,3 @@
+Building basic website
+
+Everything learned up until HTML Foundations used to create the website in one commit because I was too lazy and overwhelmed by Git. Now my goal: 1 commit per day. 
