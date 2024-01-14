@@ -3,6 +3,7 @@
 * {
     text-align: center;
     list-style-position: inside;
+    box-sizing: border-box;
 }
 
 .food_pic,
