@@ -16,11 +16,21 @@
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 70px;
+    margin: 100px;
+    font-weight: 1000;
+    display: flexbox;
 }
 
 p {
     font-size: 40px;
     margin: 100px;
     display: inline;
+}
+
+img {
+    height: 500px;
+    display: block;
+    margin-left: 270px;
+    margin-top: 50px;
 }
