@@ -24,13 +24,20 @@ h1 {
 
 p {
     font-size: 40px;
-    margin: 100px;
+    margin: 150px;
     display: inline;
 }
 
-img {
-    height: 500px;
+#new_line {
     display: block;
-    margin-left: 270px;
-    margin-top: 50px;
+}
+
+.mainpage_img {
+    height: 300px;
+    display: inline-block;
+    /* 1.px: top and bottom, 2.px: left and right */
+    /* margin: 50px 100px; */
+}
+
+#egg_fried_rice {
 }
