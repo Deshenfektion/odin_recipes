@@ -1,14 +1,16 @@
 /* styles.css */
 
+/* everything */
 * {
     background-color: antiquewhite;
     box-sizing: border-box;
-    border: 4px solid red;
+    border: 0.00001px solid red;
     color: peru;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
 }
 
+/* mainpage */
 #logo {
     display: block;
     margin: auto;
@@ -24,7 +26,8 @@ h1 {
 
 p {
     font-size: 40px;
-    margin: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
     display: inline;
 }
 
@@ -32,12 +35,29 @@ p {
     display: block;
 }
 
+
+/* images */
+.img-container {
+    text-align: left;
+}
+
 .mainpage_img {
     height: 300px;
     display: inline-block;
-    /* 1.px: top and bottom, 2.px: left and right */
-    /* margin: 50px 100px; */
 }
 
 #egg_fried_rice {
+    margin-left: 260px;
+}
+
+#chinese_tomato_egg_stir-fry {
+    margin-left: 410px;
+}
+
+#japanese_curry {
+    margin-left: 425px;
+}
+
+#gochujang_paste {
+    margin-left: 295px;
 }
