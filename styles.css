@@ -28,7 +28,7 @@ p {
     font-size: 40px;
     margin-left: 150px;
     margin-right: 150px;
-    display: inline;
+    display: inline-block;
 }
 
 #new_line {
@@ -37,6 +37,10 @@ p {
 
 
 /* images */
+div {
+    display: ;
+}
+
 .img-container {
     text-align: left;
 }
@@ -47,17 +51,17 @@ p {
 }
 
 #egg_fried_rice {
-    margin-left: 260px;
+    margin-left: ;
 }
 
 #chinese_tomato_egg_stir-fry {
-    margin-left: 410px;
+    margin-left: ;
 }
 
 #japanese_curry {
-    margin-left: 425px;
+    margin-left: ;
 }
 
 #gochujang_paste {
-    margin-left: 295px;
+    margin-left: ;
 }
