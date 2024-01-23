@@ -4,7 +4,6 @@
 * {
     background-color: antiquewhite;
     box-sizing: border-box;
-    border: 0.00001px solid red;
     color: peru;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
@@ -14,18 +13,18 @@
 #logo {
     display: block;
     margin: auto;
-    height: 400px;
+    height: 200px;
 }
 
 h1 {
-    font-size: 70px;
-    margin: 100px;
+    font-size: 60px;
+    margin: 50px;
     font-weight: 1000;
     display: flexbox;
 }
 
 p {
-    font-size: 40px;
+    font-size: 25px;
     margin-left: 150px;
     margin-right: 150px;
     display: inline-block;
@@ -35,33 +34,25 @@ p {
     display: block;
 }
 
+a,
+img {
+    display: block;
+    margin: auto;
+}
+
+
+#first-two-recipes {
+    display: inline-flex;
+    width: auto;
+}
+
+#last-two-recipes {
+    display: inline-flex;
+}
 
 /* images */
-div {
-    display: ;
-}
-
-.img-container {
-    text-align: left;
-}
-
 .mainpage_img {
-    height: 300px;
-    display: inline-block;
+    display: block;
+    height: 150px;
 }
 
-#egg_fried_rice {
-    margin-left: ;
-}
-
-#chinese_tomato_egg_stir-fry {
-    margin-left: ;
-}
-
-#japanese_curry {
-    margin-left: ;
-}
-
-#gochujang_paste {
-    margin-left: ;
-}
