@@ -12,3 +12,6 @@ links.
 
 ## Current status: 
 - Now around 50% in the Foundations Course. That's why I am coming back to this project, yippi? 
+
+### Photo Credits
+- Image by <a href="https://pixabay.com/users/daria-yakovleva-3938704/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1932466">Дарья Яковлева</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1932466">Pixabay</a>
