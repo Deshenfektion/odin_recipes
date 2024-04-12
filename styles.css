@@ -9,6 +9,11 @@
     text-align: center;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 /* mainpage */
 #logo {
     display: block;
@@ -16,7 +21,15 @@
     height: 200px;
 }
 
+/* ODIN RECIPES */
+#title {
+    display: flex;
+    justify-content: center;
+}
+
 h1 {
+    padding: 10px 40px;
+    border: 2px solid peru;
     font-size: 60px;
     margin: 50px;
     font-weight: 1000;
@@ -38,6 +51,7 @@ a,
 img {
     display: block;
     margin: auto;
+    height: 100px;
 }
 
 
